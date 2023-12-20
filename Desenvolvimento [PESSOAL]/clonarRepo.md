@@ -1,0 +1,1 @@
+> <a href="https://www.youtube.com/watch?v=qmi5GYYxww4" target="_blank">Como clonar um repositório para o VSCode<a>.
