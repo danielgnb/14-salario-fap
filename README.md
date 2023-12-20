@@ -22,3 +22,4 @@
 ### Heitor Leander
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LeanderHeitor)](https://github.com/LeanderHeitor)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitorleander/)](https://www.linkedin.com/in/heitorleander/)
+### Patrick Cruz
