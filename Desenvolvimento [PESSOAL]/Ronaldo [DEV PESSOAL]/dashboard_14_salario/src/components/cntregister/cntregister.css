@@ -1,0 +1,15 @@
+.cntrregister-container{
+    width: 900px;
+}
+
+.cntrregister-container .titulo-container {
+    font-weight: 500;
+    font-size: 20px;
+
+}
+
+.cntrregister-container .buttoncnt-container{
+    width: 50%;
+    margin-left: 220px;
+    margin-bottom: 20px;
+}

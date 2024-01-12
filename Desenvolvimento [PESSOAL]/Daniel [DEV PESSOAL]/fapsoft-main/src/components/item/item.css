@@ -1,0 +1,29 @@
+.container-itens{
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    color: white;
+    font-weight: 600;
+    padding-left: 30px;
+
+}
+
+.container-itens .container-titulo{
+    margin-right: 4px;
+
+}
+
+.container-itens a:link {
+    color: white;
+    text-decoration: none;  
+        
+    }
+    .container-itens a:hover {
+        color:  #f7f8fb;
+        text-decoration: underline;
+      }
+
+      .container-itens a:visited {
+        color: white;
+      }
+
